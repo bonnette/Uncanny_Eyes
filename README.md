@@ -1,5 +1,5 @@
 # Uncanny Eyes
- Modification of Adafruit Uncanny Eyes for the SSD1331 <br/>
+ Modification of Adafruit Uncanny Eyes for the SSD1331 display <br/>
 ![Client Photo](https://github.com/bonnette/Uncanny_Eyes/blob/master/photos/eye_teensy.jpg)
 <br/>
 This is a modification of the Adafruit Uncanny Eyes sketch Written by Phil Burgess <br/>
