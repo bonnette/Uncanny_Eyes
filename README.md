@@ -10,4 +10,6 @@ The old version (lower case ssd in the name) does not work with the Trinket M0 a
 I left the old version intact for reference purposes only.<br/>
 The newer version (uppercase SSD in the name) works with the Trinket M0 and has a config.h file like<br/>
 the original one from Adafruit. It works with two eyes and doesn't step on code from the original author <br/>
-I want to thank Adafruit for providing the code and drivers for this modification and would encourage everyone to show your support for their efforts by making purchases of the hardware necessary to complete this project from Adafruit.
+The "convert" directory contains the modified "tablegen.py" file that I modified to allow any size graphics to be used to create the HEX ".h" files.<br/>
+I have also included my graphic files that I modified from the original to fit the 96X64 display (defaultEye only). They are the files with the "1" appended to the end of each file name.
+<br/><br/>I want to thank Adafruit for providing the code and drivers for this modification and would encourage everyone to show your support for their efforts by making purchases of the hardware necessary to complete this project from Adafruit.
